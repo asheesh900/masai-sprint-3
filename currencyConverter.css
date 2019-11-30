@@ -1,0 +1,14 @@
+.box{
+     height: 500px;
+    
+     background: teal;
+}
+#col1{
+        background-color: blue;
+}
+#col2{
+    background-color: rgb(18, 18, 117);
+}
+.box1{
+        color: white;
+}
